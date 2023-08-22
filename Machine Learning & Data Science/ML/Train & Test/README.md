@@ -1,0 +1,1 @@
+The code performs linear and polynomial regression on given data, evaluates the model's performance using R-squared scores, and creates visualizations of the data points along with the regression lines and curves.

@@ -1,0 +1,3 @@
+Validating Perfect Numbers
+
+This Python code snippet prompts the user to input a number, then checks whether the number is a perfect number or not. A perfect number is a positive integer that is equal to the sum of its proper divisors (excluding itself). The code calculates the sum of proper divisors for positive and negative numbers separately, depending on the input's sign. If the calculated sum matches the input number, the code outputs "yes," indicating a perfect number; otherwise, it outputs "no." This code demonstrates a basic implementation of checking for perfect numbers using a straightforward approach.

@@ -1,0 +1,3 @@
+Swapping Elements in a 2D List
+
+This Python code snippet showcases a function designed to manipulate a 2D list, either provided by the user or generated within the code. The function, named m(lst), transposes pairs of elements in each sub-list of the input 2D list. The user can input their own 2D list or opt for a predefined list within the code. The function ensures that the input 2D list has exactly two columns, and if not, it provides an appropriate error message. Once the list is verified, the function swaps the elements in each sub-list, effectively transposing pairs. The code snippet demonstrates the use of loops and conditional statements to accomplish these tasks, providing a practical example of how to manipulate 2D lists in Python.

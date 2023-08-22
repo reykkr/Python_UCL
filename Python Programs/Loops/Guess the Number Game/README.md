@@ -1,0 +1,3 @@
+Guess the Number Game
+
+The provided code snippet represents a simple "Guess the Number" game where the player is required to guess a randomly generated number between 0 and 5. The game prompts the player to input a number and provides feedback on whether the guessed number is greater or smaller than the target number. The player has up to 4 attempts to correctly guess the number. The game can be terminated prematurely by entering a sentinel value of -9. The outcome of the game is determined by whether the player successfully guesses the number, exhausts their attempts, or chooses to quit. The code showcases the use of conditional statements, loops, and random number generation.

@@ -1,0 +1,3 @@
+Detecting Repeated Letters in a Word Using Python
+
+This Python code allows users to input a word and checks if there are any consecutive repeated letters within that word. The code defines a function named "letter(a)" that iterates through the characters of the input word and checks if any two consecutive letters are the same. If such a pair is found, the function returns True; otherwise, it returns False. The code then prompts the user to enter a word and utilizes the defined function to determine if the input word contains any repeated letters. The outcome, indicating whether repeated letters are present in the word or not, is printed as the result.

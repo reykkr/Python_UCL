@@ -1,0 +1,3 @@
+Incrementing Numbers in Python
+
+The provided Python code showcases a straightforward function named increment designed to increase a given number by a specified value. The script demonstrates how the increment function is utilized within a main function to raise a variable n by a value m. With an initial value of n = 10 and m = 2, the code employs the increment function to add m to n, resulting in a new value for n. The script concludes by printing the modified value of n. This illustrative example highlights the fundamental concepts of function usage, variable modification, and value manipulation in Python programming.

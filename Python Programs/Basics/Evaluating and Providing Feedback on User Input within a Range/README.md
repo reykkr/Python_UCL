@@ -1,0 +1,3 @@
+Number Validation Program for a Range
+
+This Python program, titled "Number Validation Program for a Range," prompts the user to input a number between 5 and 10. The program then evaluates the input and provides appropriate feedback based on its value. If the input is less than 5, the program outputs "too low." If the input is between 5 and 10 (inclusive), it prints "valid number." Lastly, if the input is greater than 10, the program responds with "too high." This program effectively validates user input within a specified numerical range and provides concise feedback regarding its validity and relation to the specified range.

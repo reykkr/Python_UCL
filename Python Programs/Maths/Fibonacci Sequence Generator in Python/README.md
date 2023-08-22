@@ -1,0 +1,3 @@
+Fibonacci Sequence Generator in Python
+
+This Python code snippet generates the Fibonacci sequence up to a specified number 'n'. The user is prompted to input a positive integer 'n'. The code then calculates and displays the Fibonacci sequence elements, starting with 0 and 1, followed by the sum of the previous two elements. The program handles different cases, such as numbers less than or equal to zero, numbers equal to one, and numbers greater than one, to generate the appropriate sequence.

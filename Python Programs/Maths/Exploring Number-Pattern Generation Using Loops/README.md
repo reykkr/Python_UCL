@@ -1,0 +1,3 @@
+Exploring Number-Pattern Generation in Python Using Loops
+
+This Python code snippet illustrates the creation of two distinct number patterns using loops. The user is prompted to input a number, 'n', and based on this input, the code generates two patterns: an increasing sequence of asterisks and a series of right-aligned triangles made up of asterisks. The first loop constructs a simple pattern where each line contains an increasing number of asterisks. The second loop generates a sequence of triangles, each having an incremental number of asterisks per line. The code provides a clear example of how nested loops can be utilized to create visually appealing number-based patterns.

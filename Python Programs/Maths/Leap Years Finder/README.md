@@ -1,0 +1,3 @@
+Leap Years Finder
+
+The provided Python code is a simple program that takes two input years, year1 and year2, from the user and then iterates through the range of years from year1 to year2 (inclusive). It checks whether each year is a leap year by applying the following conditions: the year must be divisible by 4 and not divisible by 100, or it must be divisible by 400. If a year meets either of these conditions, it is considered a leap year and is printed on the same line. The program effectively identifies and displays leap years within the specified range, allowing users to quickly find leap years between two given years.

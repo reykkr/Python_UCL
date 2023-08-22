@@ -1,0 +1,3 @@
+Evaluating Student Responses using Answer Key Matching
+
+This code snippet demonstrates a simple algorithm for evaluating student responses against an answer key. The code processes a set of student answer sheets, each containing a list of chosen options for a set of questions. The provided key represents the correct answers for each question. The algorithm compares each student's answers with the key and calculates the number of correct responses. The outcome is a per-student score, indicating the number of questions answered correctly. This basic script can be used for basic assessment and grading purposes, helping educators quickly evaluate student performance based on their selected answers.

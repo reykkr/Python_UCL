@@ -1,0 +1,3 @@
+Custom Letter Replacement in a Word
+
+This Python code allows users to input a word, along with two letters. The program then performs a letter replacement operation on the input word, replacing occurrences of the first letter with the second letter. The code defines a function called replace that iterates through each character in the input word. If the character matches the first letter, it is replaced with the second letter; otherwise, the character remains unchanged. The edited word is then returned as the output, effectively demonstrating a basic letter substitution operation. This code snippet provides a simple example of string manipulation in Python.

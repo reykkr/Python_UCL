@@ -1,0 +1,3 @@
+String Reordering Check Function
+
+This Python script defines a function named reorder that checks if two input words can be rearranged to form the same characters in the same frequency. The user is prompted to input two words, and the script utilizes a dictionary-based approach to count the occurrences of each character in the first word and then subtracts the occurrences of characters in the second word. If the count for all characters becomes zero, the function returns True, indicating that the two words can be rearranged to match each other. Otherwise, if the words have different lengths or contain different characters, the function returns False. The script takes care of checking the possibility of reordering and then prints the result.

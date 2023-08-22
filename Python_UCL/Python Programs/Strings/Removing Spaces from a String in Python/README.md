@@ -1,0 +1,3 @@
+Removing Spaces from a String in Python
+
+This Python script, titled "Removing Spaces from a String in Python," takes user input for a string containing spaces and defines a function no_space(s) to remove all spaces from the input string. The script utilizes a loop to iterate through each character of the string and appends non-space characters to the count variable. Finally, the modified string with spaces removed is returned by the function and printed as output. The script showcases a basic example of string manipulation and character filtering in Python.

@@ -1,0 +1,3 @@
+Word Reversal Amplifier
+
+The provided Python code implements a program called "Word Reversal Amplifier." The program prompts the user to input a word (sequence of characters) and an integer. It then employs a function named switch to reverse the input word and amplify its reversal based on the input integer. If the integer is positive, the word's reversal is repeated that many times. Conversely, if the integer is negative, the reversal is repeated the absolute value of that integer times. The program concludes by printing the result of this process. The code showcases a basic example of string manipulation and control flow in Python.

@@ -1,0 +1,3 @@
+Binary Search Implementation in Python
+
+This Python code snippet defines a function called binary that performs binary search on a sorted list of data. The code takes user input to create a sorted list and then prompts the user to input a number to search for using binary search. The function binary iterates through the sorted list to find the index of the target number, if present, or returns -9 if the number is not found. This code demonstrates the binary search algorithm's core concept, efficiently searching for an element in a sorted list by repeatedly dividing the search interval in half.

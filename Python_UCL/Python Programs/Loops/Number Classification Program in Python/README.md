@@ -1,0 +1,3 @@
+Number Classification Program in Python
+
+This Python program prompts the user to input numbers until they enter "q". The program then evaluates the input and classifies it based on whether it's even or odd. If the input is a whole number, the program determines if it's even or odd and provides corresponding feedback. If the input is not a whole number, the program asks for a new input. The program continues this loop until "q" is entered, at which point it terminates with a farewell message. This program serves as a simple example of user input handling, conditional statements, and loop structures in Python.

@@ -1,0 +1,3 @@
+Comparing Two Numbers in Python
+
+This Python code snippet demonstrates how to compare two numbers provided by the user using the input() function and conditional statements. Users are prompted to enter two numbers, which are stored in variables a and b. The code then employs an if-elif structure to compare the values of a and b, determining which one is greater. If a is greater than b, the code outputs that a is greater, while if b is greater than a, the code indicates that b is greater. This concise example showcases the basics of user input, variable assignment, and conditional branching in Python.

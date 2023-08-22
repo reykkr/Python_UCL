@@ -1,0 +1,3 @@
+Interactive Minimum Value Finder
+
+The provided Python code defines a program called "Interactive Minimum Value Finder." The program takes three numerical inputs from the user and then calculates and displays the minimum value among the entered numbers. The user is prompted to enter three values, which are assigned to variables 'a', 'b', and 'c'. The built-in 'eval()' function is used to evaluate the user inputs as numerical values. The program then uses the 'min()' function to find the smallest value among the three inputs and prints the result along with a descriptive message. Upon execution, the program demonstrates its functionality by interacting with the user and providing the minimum value among the entered numbers.

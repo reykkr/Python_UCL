@@ -1,0 +1,3 @@
+Interactive Matrix Entry and Display in Python
+
+This Python script demonstrates how to create a matrix by interactively entering values for its elements, and then displays the matrix in a user-friendly format. Users are prompted to input the number of rows and columns for the matrix. The script utilizes nested loops to collect element values for each row and column. After matrix creation, the script displays the matrix by iterating through its elements and printing them in row-major order. However, there seems to be a redundancy in the provided code, as the matrix creation process is both interactive and predefined. This redundancy could be resolved by choosing one of the two matrix initialization methods.

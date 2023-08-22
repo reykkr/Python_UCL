@@ -1,3 +1,0 @@
-Simple Calculator Program in Python
-
-This Python program implements a basic calculator that takes user input for two numbers and an operator. The user can input either addition, multiplication, subtraction, or division as the desired operation. Depending on the operator chosen, the program performs the corresponding mathematical operation and displays the result. The program also includes error handling for invalid operators. It demonstrates fundamental concepts of input handling, conditional statements, and basic arithmetic operations in Python.

@@ -1,3 +1,0 @@
-Exploring Pandas Series Operations in Python
-
-This code snippet demonstrates various operations that can be performed using the Pandas library's Series data structure in Python. The examples cover a range of operations such as creating Series, performing arithmetic operations, comparing Series elements, using statistical functions, filtering data, and utilizing value counts. Each example showcases the versatility and power of Pandas Series in data manipulation and analysis.

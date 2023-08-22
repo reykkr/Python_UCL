@@ -1,3 +1,0 @@
-Counting Occurrences of a Character in a Word using Python
-
-This Python code snippet demonstrates a simple program that allows a user to input a word and a specific character. The program defines a function called count that takes two arguments: the word and the character. The function iterates through each character in the word and counts how many times the specified character appears. The count is returned and printed to the user. This code provides a basic example of character counting within a given word using a user-defined function.

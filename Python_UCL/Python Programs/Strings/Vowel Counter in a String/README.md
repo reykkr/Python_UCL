@@ -1,3 +1,0 @@
-Vowel Counter in a String
-
-This Python script, titled "Vowel Counter in a String," prompts the user to enter a word. The script then analyzes the input string to count the occurrences of each vowel (including 'y') and presents the results. By utilizing a function called vowels, the script employs a simple loop to iterate through the string's characters, identifying and tallying occurrences of vowels. The counts for each vowel are stored in separate variables. If no vowels are found, the script notifies the user accordingly. Upon completion, the script prints the individual vowel counts or the absence of vowels. This script provides an efficient way to examine the vowel distribution within a given string.

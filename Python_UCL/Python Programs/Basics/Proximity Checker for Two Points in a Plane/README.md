@@ -1,3 +1,0 @@
-Proximity Checker for Two Points in a Plane
-
-This Python code snippet demonstrates a simple program that calculates the distance between two points in a two-dimensional plane based on their horizontal and vertical coordinates. The user is prompted to input the coordinates of two points, and the program calculates the squared distance between them. If the square root of the distance is greater than 5, the program outputs "far from each other"; otherwise, it outputs "close to each other." This code serves as a basic example of calculating point-to-point distance and making a proximity assessment using a distance threshold.

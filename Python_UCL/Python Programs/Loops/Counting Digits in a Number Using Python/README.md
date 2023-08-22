@@ -1,3 +1,0 @@
-Counting Digits in a Number Using Python
-
-This Python code snippet demonstrates how to count the number of digits in a given integer. The program takes user input for a number, initializes a count variable, and then enters a loop that repeatedly divides the number by 10 until it becomes zero. During each division, the count variable is incremented, effectively tallying the number of digits in the original input. The code also handles positive, negative, and zero inputs. The final output displays the original number and the count of its digits.

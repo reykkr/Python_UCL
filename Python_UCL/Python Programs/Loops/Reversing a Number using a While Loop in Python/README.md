@@ -1,3 +1,0 @@
-Reversing a Number using a While Loop in Python
-
-This Python code snippet demonstrates how to reverse a positive integer entered by the user using a while loop. The user is prompted to input a number, which is then processed to extract individual digits in reverse order. The remainder of division by 10 is computed at each step to isolate the last digit, which is added to the reversed number after multiplying the current reverse by 10. The process continues until the input number becomes zero. The code provides insight into a fundamental algorithm for reversing digits in a number, showcasing the use of basic arithmetic operations and loops in Python programming.

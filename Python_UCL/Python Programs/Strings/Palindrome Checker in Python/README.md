@@ -1,3 +1,0 @@
-Palindrome Checker in Python
-
-The provided Python code snippet demonstrates a program that checks whether a given word is a palindrome or not. A palindrome is a word, phrase, or sequence of characters that reads the same forwards as it does backwards. The code takes user input for a word, iterates through its characters in reverse order, and compares the reversed version with the original word. If the reversed word matches the original, the program confirms that the input is a palindrome; otherwise, it indicates that the input is not a palindrome. This simple script showcases the fundamental concept of palindrome detection using a straightforward iterative approach in Python.

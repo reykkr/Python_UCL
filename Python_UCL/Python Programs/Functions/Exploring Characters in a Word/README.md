@@ -1,3 +1,0 @@
-Exploring Characters in a Word
-
-The provided Python code defines a function named words() that prompts the user to input a word. Once the input is received, the code utilizes a loop to iterate through each character in the word and subsequently prints each character on a separate line. While the code achieves its intended purpose of breaking down a word into individual characters, the structure of the function and its execution could be optimized for improved clarity and functionality.

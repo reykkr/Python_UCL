@@ -1,3 +1,0 @@
-Circular Shifting of Elements in a List using Python
-
-This Python code snippet demonstrates a function named "shift" that performs a circular shift of elements in a given list. The function takes a list as input and shifts its elements to the left, with the last element becoming the first. The code iterates through the list, moving each element one position to the left, and then places the initial first element at the end. The shifted list is returned as the output of the function.
